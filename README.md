@@ -2,6 +2,21 @@
 
 This is a Streamlit web application for predicting customer churn based on various input parameters. It includes features for predicting customer behavior and visualizing model performance metrics.
 
+The application consists of three main pages:
+
+1. **Prediction**: Allows users to input customer details such as credit score, age, tenure, balance, etc., to predict whether a customer will churn or not using a pre-trained machine learning model.
+
+   ![Prediction Page](screenshots/prediction_page.png)
+
+2. **Metrics**: Displays model performance metrics such as accuracy, precision, recall, and F1-score for multiple models. It includes visualizations of these metrics using bar plots, confusion matrices, and ROC curves.
+
+   ![Metrics Page](screenshots/metrics_page.png)
+
+3. **EDA (Exploratory Data Analysis)**: Provides insights into the dataset used for training the model. It includes univariate and bivariate analysis plots such as histograms, count plots, scatter plots, and correlation heatmaps to explore relationships between variables.
+
+   ![EDA Page](screenshots/eda_page.png)
+
+
 ## Overview
 
 The application consists of three main pages:

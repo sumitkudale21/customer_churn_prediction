@@ -7,3 +7,4 @@ seaborn
 imblearn
 streamlit
 plotly
+joblib
