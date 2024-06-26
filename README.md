@@ -31,3 +31,34 @@ The application consists of three main pages:
 ## Setup Instructions
 
 1. Clone the repository:
+
+2. Install the required Python packages:
+
+3. Run the Streamlit application:
+
+4. Open the application in your browser:
+
+
+## Data Sources
+
+- The application uses the `Churn_Modelling.csv` dataset located in the `dataset` directory. This dataset includes customer information and churn status.
+
+## Model Training
+
+- The predictive models used in the application are trained using machine learning techniques. Model training details are included in the `model_training.ipynb` notebook.
+
+## Libraries Used
+
+- Python: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- Streamlit: For building and deploying the web application
+
+## Author
+
+- Your Name
+- Contact Information
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
