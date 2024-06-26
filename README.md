@@ -54,8 +54,7 @@ The application consists of three main pages:
 
 ## Author
 
-- Your Name
-- Contact Information
+- Sumit Kudale
 
 ## License
 
