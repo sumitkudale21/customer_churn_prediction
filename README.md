@@ -8,7 +8,7 @@ The application consists of three main pages:
 
    ![Prediction Page](screenshots/prediction_page.png)
 
-2. **Metrics**: Displays model performance metrics such as accuracy, precision, recall, and F1-score for multiple models. It includes visualizations of these metrics using bar plots, confusion matrices, and ROC curves.
+2. **Metrics**: Displays model performance metrics such as accuracy, precision, recall, and F1-score for multiple models. It includes visualizations of these metrics using bar plots, confusion matrices.
 
    ![Metrics Page](screenshots/metrics_page.png)
 
